@@ -1,0 +1,3 @@
+class MyChild extends MyParent
+{
+}
